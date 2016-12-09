@@ -1,0 +1,42 @@
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\bin\Debug\Laboratornaya_2.exe.config
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\bin\Debug\Laboratornaya_2.exe
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\bin\Debug\Laboratornaya_2.pdb
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.csprojResolveAssemblyReference.cache
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\obj\Debug\MainWindow.g.cs
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\obj\Debug\App.g.cs
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2_MarkupCompile.cache
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2_MarkupCompile.lref
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\obj\Debug\MainWindow.baml
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.g.resources
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.Properties.Resources.resources
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.csproj.GenerateResource.Cache
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.exe
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.pdb
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\bin\Debug\Laboratornaya_2.exe.config
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.exe
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.pdb
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\obj\Debug\MainWindow.g.cs
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\obj\Debug\App.g.cs
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2_MarkupCompile.cache
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2_MarkupCompile.lref
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\bin\Debug\Laboratornaya_2.exe
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\bin\Debug\Laboratornaya_2.pdb
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\obj\Debug\MainWindow.baml
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.g.resources
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.Properties.Resources.resources
+C:\Users\me\Desktop\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.csproj.GenerateResource.Cache
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\bin\Debug\Laboratornaya_2.exe.config
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.exe
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.pdb
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\bin\Debug\Laboratornaya_2.exe
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\bin\Debug\Laboratornaya_2.pdb
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.csprojResolveAssemblyReference.cache
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\obj\Debug\MainWindow.g.cs
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\obj\Debug\App.g.cs
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2_MarkupCompile.cache
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2_MarkupCompile.lref
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\obj\Debug\MainWindow.baml
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.g.resources
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.Properties.Resources.resources
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laboratornaya_2\Laboratornaya_2\obj\Debug\Laboratornaya_2.csproj.GenerateResource.Cache
